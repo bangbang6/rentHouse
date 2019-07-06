@@ -1,0 +1,67 @@
+{
+  "pages": [
+    "pages/admin/signup/main",
+      "pages/custom/login/main",
+    
+    "pages/custom/signup/main",
+    
+    "pages/admin_center/admin_mes/main",
+    "pages/admin/login/main",
+    
+    
+    "pages/custom_center/custom_me/main",
+      
+    
+    
+    "pages/custom_center/house_detail/main",
+      "pages/admin_center/admin_main/main",
+      
+    "pages/custom_center/custom_house/main",
+    "pages/custom_center/custom_already/main",
+    
+    
+    
+    
+    
+    "pages/custom_center/custom_pub/main",
+    
+
+      
+    
+  
+    
+    
+    
+    
+   
+    "pages/custom_center/custom_password/main"
+    
+    
+  ],
+  
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EA5149",
+    "navigationBarTitleText": "DR出租",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "selectedColor": "#EA5149",
+
+    "list": [{
+      "text": "用户",
+      "pagePath":  "pages/custom/signup/main",
+      "iconPath": "static/images/custom.png",
+      "selectedIconPath": "static/images/custom-active.png"
+    }, {
+      "text": "管理员",
+      "pagePath":  "pages/admin/signup/main",
+      "iconPath": "static/images/admin.png",
+      "selectedIconPath": "static/images/admin-active.png"
+    }],
+
+    
+    "position": "bottom"
+  }
+}

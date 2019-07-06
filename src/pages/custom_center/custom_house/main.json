@@ -1,0 +1,10 @@
+{
+   
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EA5149",
+    "navigationBarTitleText": "房屋信息",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+        
+      
+}
